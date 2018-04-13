@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jingxi-backend-controller:war">
+    <output-path>$PROJECT_DIR$/jingxi-backend-controller/target</output-path>
+    <root id="archive" name="jingxi-backend-controller.war">
+      <element id="artifact" artifact-name="jingxi-backend-controller:war exploded" />
+    </root>
+  </artifact>
+</component>
