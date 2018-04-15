@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="jingxi-rest:war">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="jingxi-rest.war">
+      <element id="artifact" artifact-name="jingxi-rest:war exploded" />
+    </root>
+  </artifact>
+</component>

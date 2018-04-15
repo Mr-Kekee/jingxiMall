@@ -1,0 +1,7 @@
+127.0.0.1 - - [22/Nov/2017:13:06:18 +0800] "GET /user/showLogin HTTP/1.1" 200 4006 http-bio-8084-exec-1 837
+127.0.0.1 - - [22/Nov/2017:13:06:18 +0800] "GET /js/jquery-1.6.4.js HTTP/1.1" 200 92010 http-bio-8084-exec-3 12
+127.0.0.1 - - [22/Nov/2017:13:06:18 +0800] "GET /css/login.css HTTP/1.1" 200 28031 http-bio-8084-exec-2 18
+127.0.0.1 - - [22/Nov/2017:13:06:18 +0800] "GET /images/taotao-logo.gif HTTP/1.1" 200 6060 http-bio-8084-exec-4 4
+127.0.0.1 - - [22/Nov/2017:13:06:18 +0800] "GET /images/login-all-bg.png HTTP/1.1" 200 12219 http-bio-8084-exec-5 5
+127.0.0.1 - - [22/Nov/2017:13:06:18 +0800] "GET /images/544a11d3Na5a3d566.png HTTP/1.1" 200 195803 http-bio-8084-exec-6 20
+127.0.0.1 - - [22/Nov/2017:13:06:19 +0800] "GET /favicon.ico HTTP/1.1" 404 997 http-bio-8084-exec-7 14
